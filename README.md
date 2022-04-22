@@ -1,13 +1,21 @@
-## Hi, I'm Renan Goulart👋
+## Hello There👋
 
-- 📚 I'm currently studying Systems Analysis and Development at Fatec in Mogi das Cruzes.
-- 💻 I’m currently learning Front-end.
+My name is Renan Goulart. I currently live in São Paulo, Brazil. I'm currently studying Systems Analysis and Development at Fatec in Mogi das Cruzes.
+
+On my free Time I like to play video games and code random things.
+
+### Detailed Information
+
+- Name: Renan Goulart
+- Age: 18
+- Living in: Itaquaquecetuba - SP
+- Stack: HTML - CSS - JS - React
+- University: (1/6) Systems Analysis and Development - Fatec in Mogi das Cruzes
 
 ### Stats
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RenanGoulart">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenanGoulart&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoulart&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
