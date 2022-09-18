@@ -9,8 +9,8 @@ On my free Time I like to play video games and code random things.
 - Name: Renan Goulart
 - Age: 18
 - Living in: Itaquaquecetuba - SP
-- Stack: HTML - CSS - JS - React
-- University: (1/6) Systems Analysis and Development - Fatec in Mogi das Cruzes
+- Stack: HTML - CSS/SCSS - JS/TS - React
+- University: (2/6) Systems Analysis and Development - Fatec in Mogi das Cruzes
 
 ### Stats
 
