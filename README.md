@@ -7,7 +7,7 @@ On my free Time I like to play video games and code random things.
 ### Detailed Information
 
 - Name: Renan Goulart
-- Age: 18
+- Age: 19
 - Living in: Itaquaquecetuba - SP
 - Stack: React Native / React - JS/TS - HTML - CSS/SCSS 
 - University: (3/6) Systems Analysis and Development - Fatec in Mogi das Cruzes
