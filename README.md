@@ -1,16 +1,13 @@
-## Hello There👋
+## Olá, me chamo Renan Goulart!
 
-My name is Renan Goulart. I currently live in São Paulo, Brazil. I'm currently studying Systems Analysis and Development at Fatec in Mogi das Cruzes.
+Atualmente estudante de Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes, no meu dia a dia desenvolvo aplicações móveis com React Native e Expo. Possuo interesse em desenvolvimento móvel, porém estou buscando ampliar meu conhecimento em Back-End e desenvolvimento nativo com Swift.
 
-On my free Time I like to play video games and code random things.
+### Sobre
 
-### Detailed Information
+* 19 anos
+* Análise e Desenvolvimento de Sistemas - FATEC de Mogi das Cruzes (5/6)
+* Stack: React Native - Typescript - Expo / Java - Swift (estudando)
 
-- Name: Renan Goulart
-- Age: 19
-- Living in: Itaquaquecetuba - SP
-- Stack: React Native / React - JS/TS - HTML - CSS/SCSS 
-- University: (3/6) Systems Analysis and Development - Fatec in Mogi das Cruzes
 
 ### Stats
 
@@ -19,7 +16,7 @@ On my free Time I like to play video games and code random things.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoulart&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### Social links
+### Social
   
 <div>
   <a href="https://github.com/RenanGoulart">
