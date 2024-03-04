@@ -4,9 +4,9 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas na FATEC de Mogi 
 
 ### Sobre
 
-* 19 anos
+* 20 anos
 * Análise e Desenvolvimento de Sistemas - FATEC de Mogi das Cruzes (5/6)
-* Stack: React Native - Typescript - Expo / Java - Swift (estudando)
+* Stack: React Native - Typescript - Expo / NodeJS - Java - Swift (estudando)
 
 
 ### Stats
