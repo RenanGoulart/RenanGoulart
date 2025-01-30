@@ -1,12 +1,10 @@
 ## Olá, me chamo Renan Goulart!
 
-Atualmente estudante de Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes, no meu dia a dia desenvolvo aplicações móveis com React Native e Expo. Possuo interesse em desenvolvimento móvel, porém estou buscando ampliar meu conhecimento em Back-End e desenvolvimento nativo com Swift.
-
 ### Sobre
 
-* 20 anos
-* Análise e Desenvolvimento de Sistemas - FATEC de Mogi das Cruzes (6/6)
-* Stack: React Native - Typescript - Expo / NodeJS - Java (estudando)
+* 21 anos
+* Análise e Desenvolvimento de Sistemas - FATEC de Mogi das Cruzes
+* Stack: React Native - Typescript - Expo / React.js - Next.js / Node.js
 
 
 ### Stats
