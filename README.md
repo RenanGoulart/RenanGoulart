@@ -4,7 +4,7 @@
 
 Meu nome é **Renan Goulart**. Atualmente, moro em São Paulo - BR e meu objetivo é construir aplicações que ajudem as pessoas de alguma forma.
 
-No meu tempo livre, gosto de jogar video game e criar projetos pessoais, onde aprendo diversos tópicos na área de tecnlogia.🎮
+No meu tempo livre, gosto de jogar video game e criar projetos pessoais, onde aprendo diversos assuntos da área de desenvolvimento de software.🎮
 
 ## 📝 Informações Detalhadas
 
