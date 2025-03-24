@@ -17,7 +17,7 @@ No meu tempo livre, gosto de jogar video game e criar projetos pessoais, onde ap
 
 ## 😎 Curiosidades sobre Mim
 
-- 🎮 Sou apaixonado por jogos especialmente souls likes e 
+- 🎮 Sou apaixonado por [jogos](https://backloggd.com/u/RenanSGM/games/) especialmente souls likes e jogos de ação.
 - 💡 Comecei a programar em 2019 e, desde então, venho me desafiando e aprendendo coisas novas.   
 - 🌐 Tenho experiência em diversos projetos, desde aplicativos simples até sistemas web, o que me proporcionou certa experiência em desenvolvimento.   
 
