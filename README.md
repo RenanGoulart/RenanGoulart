@@ -12,14 +12,13 @@ No meu tempo livre, gosto de jogar video game e criar projetos pessoais, onde ap
 - 🎂 **Idade:** 21 
 - 📍 **Localização:** Itaquaquecetuba, SP - Brasil  
 - 💻 **Stack:** React, React Native, Typescript, Expo, Next.js, Node.js
-- 📚 **Aprendizado Atual:** Arquitetura de Software, Estrutura de Dados e Java 
+- 📚 **Aprendizado Atual:** Arquitetura de Software, Estrutura de Dados e AWS 
 - 🎓 **Formação:** Graduado em análise e desenvolvimento de sistemas pela Fatec
 
 ## 😎 Curiosidades sobre Mim
 
-- 🎮 Sou apaixonado por [jogos](https://backloggd.com/u/RenanSGM/games/) especialmente souls likes e jogos de ação.
+- 🎮 Sou apaixonado por jogos especialmente souls likes e jogos de ação.
 - 💡 Comecei a programar em 2019 e, desde então, venho me desafiando e aprendendo coisas novas.   
-- 🌐 Tenho experiência em diversos projetos, desde aplicativos simples até sistemas web, o que me proporcionou certa experiência em desenvolvimento.   
 
 ## 📊 Stats
 
