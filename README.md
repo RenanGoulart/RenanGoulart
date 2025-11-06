@@ -2,23 +2,16 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **Renan Goulart**. Atualmente, moro em São Paulo - BR e meu objetivo é construir aplicações que ajudem as pessoas de alguma forma.
-
-No meu tempo livre, gosto de jogar video game e criar projetos pessoais, onde aprendo diversos assuntos da área de desenvolvimento de software.
+Meu nome é **Renan Goulart**. Atualmente, moro em São Paulo - BR e meu objetivo é construir aplicações que resolvam problemas reais.
 
 ## 📝 Informações Detalhadas
 
 - 👤 **Nome:** Renan Goulart
 - 🎂 **Idade:** 21 
 - 📍 **Localização:** Itaquaquecetuba, SP - Brasil  
-- 💻 **Stack:** React, React Native, Typescript, Expo, Next.js, Node.js
-- 📚 **Aprendizado Atual:** Arquitetura de Software, Estrutura de Dados e AWS 
+- 💻 **Stack:** React Native, React, Next.js, Typescript, Node.js e Go
+- 📚 **Aprendizado Atual:** Arquitetura de Software, Estrutura de Dados, AWS e Go 
 - 🎓 **Formação:** Graduado em análise e desenvolvimento de sistemas pela Fatec
-
-## 😎 Curiosidades sobre Mim
-
-- 🎮 Sou apaixonado por jogos especialmente souls likes e jogos de ação.
-- 💡 Comecei a programar em 2019 e, desde então, venho me desafiando e aprendendo coisas novas.   
 
 ## 📊 Stats
 
